@@ -8,6 +8,7 @@
   4. ```results.csv``` - CSV file containg results.
  
   I have trained this network on Kaggle. Here is the link to Kaggle Notebook: [Kaggle Notebook](https://www.kaggle.com/adityakumar01/prithvi). You can see the results in the kaggle as well as the repo notebook.
+  The dataset which I have uploaded on kaggle for training model will be deleted after the results.
   The screenshots for the results are:
   ![imgs](imgs/img1.png) 
   ![imgs](imgs/img.png)
