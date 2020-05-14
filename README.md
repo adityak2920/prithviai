@@ -9,4 +9,4 @@
  
   I have trained this network on Kaggle. Here is the link to Kaggle Notebook: [Kaggle Notebook](https://www.kaggle.com/adityakumar01/prithvi). You can see the results in the kaggle as well as the repo notebook.
   The screenshots for the results are:
-  [imgs](imgs/img.png)
+  ![imgs](imgs/img.png)
